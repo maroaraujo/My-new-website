@@ -1,6 +1,12 @@
-# README - Learning Journey step 7
+# Test to enter on the School of Code
 
-## 7.2 - Your Tribute Page
+Before entering in SoC I didn't know anything about coding, and we needed to create a website from scrath to show that we could learn by ourselves. For me was a BIG thing when I deployed my first website, it is really simple but it was just the first steps, so I'm happy to keep it to remember how much I've learned.
+
+deployed website:
+https://maroaraujo.github.io/My-new-website/
+
+
+## Your Tribute Page TASK
 
 You will now be using git and vscode to:
 
